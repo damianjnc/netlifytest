@@ -18,6 +18,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Learn React TEST TEST
+            CONTINOUS DEPLOYMENT TEST
           </a>
         </header>
       </div>
